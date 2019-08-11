@@ -10,9 +10,9 @@ There are codes focusing on data loading, preprocessing, processing and classifi
 
 ### Installation:
 
-Copy this repository using git or download. <br/>
+Clone this repository using git or download. <br/>
 
-git copy link:<br/>
+git clone link:<br/>
 [https://github.com/onachija/PN.git]
 
 
@@ -52,5 +52,5 @@ read csv files from folder _/data/CALC_SEG_, check local extreme in x and y dire
 5) straight_two_steps.ipynb<br/>
 process all **segments** : check for local extreme in z-direction of corpus/left and right foot to find number of steps, 
 create csv file with overview of segment start and end and number of steps in this **segment** as SEGMENTS.csv
-6) ...
-compute features in **two_steps**
+6) Classifier_SVM.ipynb<br/>
+first preliminary results
